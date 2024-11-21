@@ -12,3 +12,4 @@ A better version of a PunchCard system that me an my colleagues are developing a
 #### GUI - PySide6
 #### Database - MySQL
 #### Libraries - 
+#### Testing - PyTest
