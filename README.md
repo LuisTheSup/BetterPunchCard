@@ -13,3 +13,4 @@ A better version of a PunchCard system that me an my colleagues are developing a
 #### Database - MySQL
 #### Libraries - 
 #### Testing - pytest
+#### Build & Deployment - Docker
